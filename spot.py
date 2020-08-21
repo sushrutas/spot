@@ -1,4 +1,4 @@
-# sushrutas/spot
+# github.com/sushrutas/spot 
 # This program is a voice assistant to be used with Spotify Web Player
 # More features coming soon
 # Sushruta Shankar, 2020
